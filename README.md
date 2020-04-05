@@ -1,2 +1,2 @@
-# Estudo-Python
- Meus estudos de Python
+# Python
+Nesse repositório do GitHub, irei colocar meus estudos de Python.
